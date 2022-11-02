@@ -1,6 +1,6 @@
 # bayesian-ab
 
-使用方法は各ファイルを参照してください．
+使用方法は各ファイルを参照ください．
 
-COLAB上で公開しています．
-- https://colab.research.google.com/drive/1xkQ-KFfcyZXdXboOCALkDH_XCwQrsB25
+[qiita記事](https://qiita.com/o93/items/95570b30ed37b608279f)
+
